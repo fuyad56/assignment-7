@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Live preview: https://curious-heliotrope-62cab3.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
