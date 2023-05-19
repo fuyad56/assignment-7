@@ -1,0 +1,76 @@
+[{
+  "id": 1,
+  "name": "Lionel Messi",
+  "image": "https://s.hs-data.com/bilder/spieler/gross/26622.jpg",
+  "salary": 150000
+}, {
+  "id": 2,
+  "name": "Cristiano Ronaldo",
+  "image": "https://s.hs-data.com/bilder/spieler/gross/13029.jpg",
+  "salary": 230000
+}, {
+  "id": 3,
+  "name": "Neymar",
+  "image": "https://s.hs-data.com/bilder/spieler/gross/142105.jpg",
+  "salary": 124412
+}, {
+  "id": 4,
+  "name": "Kylian Mbappé",
+  "image": "https://s.hs-data.com/bilder/spieler/gross/284095.jpg",
+  "salary": 523325
+}, {
+  "id": 5,
+  "name": "Erling Haaland",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Erling_Haaland_2023_%28cropped-v2%29.jpg",
+  "salary": 125521
+}, {
+  "id": 6,
+  "name": "Achraf Hakimi",
+  "image": "https://img.a.transfermarkt.technology/portrait/big/398073-1672304327.jpg?lm=1",
+  "salary": 123321
+}, {
+  "id": 7,
+  "name": "Robert Lewandowski",
+  "image": "https://pbs.twimg.com/profile_images/1560186554781519873/wq6vdCir_400x400.jpg",
+  "salary": 456654
+}, {
+  "id": 8,
+  "name": "Antoine Griezmann",
+  "image": "https://fcb-abj-pre.s3.amazonaws.com/img/jugadors/GRIEZMANN_2020.jpg",
+  "salary": 852258
+}, {
+  "id": 9,
+  "name": "Jude Bellingham",
+  "image": "https://i.bundesliga.com/player/dfl-obj-002ge9-dfl-clu-000007-dfl-sea-0001k6.png",
+  "salary": 753357
+}, {
+  "id": 10,
+  "name": "Sergio Ramos",
+  "image": "https://www.realmadrid.com/img/vertical_380px/ramos_ficha_550x650_20210630115027.jpg",
+  "salary": 159951
+}, {
+  "id": 11,
+  "name": "Zlatan Ibrahimović",
+  "image": "https://s.hs-data.com/bilder/spieler/gross/1274.jpg",
+  "salary": 741147
+}, {
+  "id": 12,
+  "name": "Mohamed Salah",
+  "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p118748.png",
+  "salary": 951753
+}, {
+  "id": 13,
+  "name": "Ronaldinho Gaúcho",
+  "image": "https://fcb-abj-pre.s3.amazonaws.com/img/jugadors/763_ronaldinho.jpg",
+  "salary": 852456
+}, {
+  "id": 14,
+  "name": "Paul Pogba",
+  "image": "https://s.hs-data.com/bilder/spieler/gross/180976.jpg",
+  "salary": 456951
+}, {
+  "id": 15,
+  "name": "Olivier Giroud",
+  "image": "https://s.hs-data.com/bilder/spieler/gross/59947.jpg",
+  "salary": 654159
+}]

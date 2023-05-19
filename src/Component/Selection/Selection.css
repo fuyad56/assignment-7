@@ -1,0 +1,36 @@
+.select .salary {
+    padding-left: 17rem;
+    padding-bottom: 50px;
+}
+
+.player-card {
+    border: 5px solid gray;
+    border-radius: 20PX;
+    padding: 20px;
+    margin: 20px;
+    margin-left: 75px;
+    width: 35rem;
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+    box-shadow: 10px 10px 10px lightgray;
+    transition: 0.3s linear;
+}
+
+.player-card:hover {
+    transform: scale(1.1);
+}
+
+.player-image img{
+    width: 40%;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.player-image img:hover {
+    transform: scale(1.1);
+}
+
+.player-details {
+    margin-left: -100px;
+}
